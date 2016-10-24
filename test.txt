@@ -1,0 +1,60 @@
+0	4	08:57:55	/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */	
+Error Code: 1231. Variable 'sql_notes' can't be set to the value of 'NULL'	0.000 sec
+
+1	878	10:40:16	/*!40101 SET SQL_MODE=@OLD_SQL_MODE */	0 row(s) affected, 2 warning(s):
+ 3135 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+ 3090 Changing sql mode 'NO_AUTO_CREATE_USER' is deprecated. It will be removed in a future release.	0.000 sec
+ 
+ 
+ 
+ 
+ {"rows":
+ [{"uuid":"03765a7a-33cf-11e6-aa3f-00163e0008c2","_parentId":"7a7ce11d-bf67-11e5-af07-1051721bd14f","name":"整车保API对接帐号","url":"/admin/client/client","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"04ee1781-20b2-11e6-90ea-00163e0008c2","_parentId":"322007a7-98d6-11e5-8777-1051721d3c24","name":"云鸟太平业务","url":"/admin/yunniaoorder/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"0db4ad18-1859-11e6-9d6e-00163e0008c2","_parentId":"322007a7-98d6-11e5-8777-1051721d3c24","name":"云鸟业务统计","url":"/admin/yunniaoorder/list", "is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"2ae2f64e-98d6-11e5-8777-1051721d3c24", "_parentId":"","name":"内容管理","url":"","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"2b2e17ea-98d6-11e5-8777-1051721d3c24","_parentId":"","name":"会员管理","url":"","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"2b6dd22c-98d6-11e5-8777-1051721d3c24","_parentId":"","name":"业务管理","url":"","is_menu":true,"order":3,"group":"","children":null},
+ {"uuid":"2bb06c4d-98d6-11e5-8777-1051721d3c24","_parentId":"","name":"统计管理","url":"","is_menu":true,"order":4,"group":"","children":null},
+ {"uuid":"2c03ac7d-98d6-11e5-8777-1051721d3c24","_parentId":"","name":"参数配置","url":"","is_menu":true,"order":5,"group":"","children":null},
+ {"uuid":"2c4a3ef8-98d6-11e5-8777-1051721d3c24","_parentId":"","name":"系统管理","url":"","is_menu":true,"order":6,"group":"","children":null},
+ {"uuid":"2da447c2-98d6-11e5-8777-1051721d3c24","_parentId":"2ae2f64e-98d6-11e5-8777-1051721d3c24","name":"宣传管理","url":"","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"2e510cfa-98d6-11e5-8777-1051721d3c24","_parentId":"2ae2f64e-98d6-11e5-8777-1051721d3c24","name":"其他管理","url":"","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"2f1a35b0-98d6-11e5-8777-1051721d3c24","_parentId":"2da447c2-98d6-11e5-8777-1051721d3c24","name":"内容管理","url":"/admin/article/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"2faf4879-98d6-11e5-8777-1051721d3c24","_parentId":"2e510cfa-98d6-11e5-8777-1051721d3c24","name":"友链管理","url":"/admin/link/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"2ffa935c-98d6-11e5-8777-1051721d3c24","_parentId":"2e510cfa-98d6-11e5-8777-1051721d3c24","name":"广告位置管理","url":"/admin/ad_position/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"30439059-98d6-11e5-8777-1051721d3c24","_parentId":"2e510cfa-98d6-11e5-8777-1051721d3c24","name":"广告内容管理","url":"/admin/ad_content/list","is_menu":true,"order":3,"group":"","children":null},
+ {"uuid":"30e0c731-98d6-11e5-8777-1051721d3c24","_parentId":"2b2e17ea-98d6-11e5-8777-1051721d3c24","name":"会员列表","url":"","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"316a7f85-98d6-11e5-8777-1051721d3c24","_parentId":"30e0c731-98d6-11e5-8777-1051721d3c24","name":"会员列表","url":"/admin/user/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"322007a7-98d6-11e5-8777-1051721d3c24","_parentId":"2b6dd22c-98d6-11e5-8777-1051721d3c24","name":"保单管理","url":"","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"325d1901-98d6-11e5-8777-1051721d3c24","_parentId":"2b6dd22c-98d6-11e5-8777-1051721d3c24","name":"保单打印管理","url":"","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"329dc16e-98d6-11e5-8777-1051721d3c24","_parentId":"2b6dd22c-98d6-11e5-8777-1051721d3c24","name":"站内信管理","url":"","is_menu":true,"order":4,"group":"","children":null},
+ {"uuid":"333c79db-98d6-11e5-8777-1051721d3c24","_parentId":"322007a7-98d6-11e5-8777-1051721d3c24","name":"整车保","url":"/admin/truckorder/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"33c8ca1d-98d6-11e5-8777-1051721d3c24","_parentId":"325d1901-98d6-11e5-8777-1051721d3c24","name":"待处理的打印申请","url":"/admin/print/pending","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"3406627e-98d6-11e5-8777-1051721d3c24","_parentId":"325d1901-98d6-11e5-8777-1051721d3c24","name":"已处理的打印申请","url":"/admin/print/processed","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"34acffeb-98d6-11e5-8777-1051721d3c24","_parentId":"329dc16e-98d6-11e5-8777-1051721d3c24","name":"站内信回复","url":"/admin/message/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"36035c73-98d6-11e5-8777-1051721d3c24","_parentId":"2bb06c4d-98d6-11e5-8777-1051721d3c24","name":"运营统计","url":"","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"374eb893-98d6-11e5-8777-1051721d3c24","_parentId":"36035c73-98d6-11e5-8777-1051721d3c24","name":"会员登陆统计","url":"/admin/statistics/userlogin","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"37a3264a-98d6-11e5-8777-1051721d3c24","_parentId":"36035c73-98d6-11e5-8777-1051721d3c24","name":"会员数据统计","url":"/admin/statistics/user","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"37e8b6ec-98d6-11e5-8777-1051721d3c24","_parentId":"36035c73-98d6-11e5-8777-1051721d3c24","name":"会员充值统计","url":"/admin/statistics/deposit","is_menu":true,"order":3,"group":"","children":null},
+ {"uuid":"3835fe50-98d6-11e5-8777-1051721d3c24","_parentId":"36035c73-98d6-11e5-8777-1051721d3c24","name":"会员投保统计","url":"/admin/statistics/truckorder","is_menu":true,"order":4,"group":"","children":null},
+ {"uuid":"387709b8-98d6-11e5-8777-1051721d3c24","_parentId":"36035c73-98d6-11e5-8777-1051721d3c24","name":"资金流水记录","url":"/admin/statistics/transaction","is_menu":true,"order":5,"group":"","children":null},
+ {"uuid":"3917d7e5-98d6-11e5-8777-1051721d3c24","_parentId":"2c03ac7d-98d6-11e5-8777-1051721d3c24","name":"活动管理","url":"","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"395e0390-98d6-11e5-8777-1051721d3c24","_parentId":"2c03ac7d-98d6-11e5-8777-1051721d3c24","name":"模板管理","url":"","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"3a3a74db-98d6-11e5-8777-1051721d3c24","_parentId":"3917d7e5-98d6-11e5-8777-1051721d3c24","name":"活动列表","url":"/admin/promotion/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"3ae250ce-98d6-11e5-8777-1051721d3c24","_parentId":"395e0390-98d6-11e5-8777-1051721d3c24","name":"协议模板管理","url":"/admin/agreement/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"3b7a943c-98d6-11e5-8777-1051721d3c24","_parentId":"2c4a3ef8-98d6-11e5-8777-1051721d3c24","name":"管理员管理","url":"","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"3bd02e16-98d6-11e5-8777-1051721d3c24","_parentId":"2c4a3ef8-98d6-11e5-8777-1051721d3c24","name":"系统日志","url":"","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"3c568283-98d6-11e5-8777-1051721d3c24","_parentId":"3b7a943c-98d6-11e5-8777-1051721d3c24","name":"部门管理","url":"/admin/organization/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"3ca1114c-98d6-11e5-8777-1051721d3c24","_parentId":"3b7a943c-98d6-11e5-8777-1051721d3c24","name":"角色管理","url":"/admin/role/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"3cef7785-98d6-11e5-8777-1051721d3c24","_parentId":"3b7a943c-98d6-11e5-8777-1051721d3c24","name":"员工管理","url":"/admin/employee/list","is_menu":true,"order":4,"group":"","children":null},
+ {"uuid":"3d4cdec5-98d6-11e5-8777-1051721d3c24","_parentId":"3b7a943c-98d6-11e5-8777-1051721d3c24","name":"菜单管理","url":"/admin/menu/list","is_menu":true,"order":5,"group":"","children":null},
+ {"uuid":"4031b45d-98d6-11e5-8777-1051721d3c24","_parentId":"3bd02e16-98d6-11e5-8777-1051721d3c24","name":"后台登陆日志","url":"/admin/adminlogin/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"4072fd17-98d6-11e5-8777-1051721d3c24","_parentId":"3bd02e16-98d6-11e5-8777-1051721d3c24","name":"前台登陆日志","url":"/admin/userlogin/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"5857abe1-2191-11e6-8346-00163e0008c2","_parentId":"322007a7-98d6-11e5-8777-1051721d3c24","name":"云鸟大地业务","url":"/admin/yunniaodadiorder/list","is_menu":true,"order":3,"group":"","children":null},
+ {"uuid":"5f25d350-99ba-11e6-98b9-30b49e264776","_parentId":"2b2e17ea-98d6-11e5-8777-1051721d3c24","name":"VIP","url":"","is_menu":false,"order":2,"group":"","children":null},
+ {"uuid":"67b9b51a-2191-11e6-8346-00163e0008c2","_parentId":"322007a7-98d6-11e5-8777-1051721d3c24","name":"云鸟太平业务","url":"/admin/yunniaotaipingorder/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"7a7ce11d-bf67-11e5-af07-1051721bd14f","_parentId":"2c4a3ef8-98d6-11e5-8777-1051721d3c24","name":"渠道管理","url":"","is_menu":true,"order":3,"group":"","children":null},
+ {"uuid":"7b1ddffd-bf67-11e5-af07-1051721bd14f","_parentId":"7a7ce11d-bf67-11e5-af07-1051721bd14f","name":"渠道列表","url":"/admin/channel/list","is_menu":true,"order":1,"group":"","children":null},
+ {"uuid":"ba2edee0-aa19-11e5-8777-1051721d3c24","_parentId":"3917d7e5-98d6-11e5-8777-1051721d3c24","name":"定向红包","url":"/admin/coupon/list","is_menu":true,"order":2,"group":"","children":null},
+ {"uuid":"d03a07b3-33ce-11e6-aa3f-00163e0008c2","_parentId":"325d1901-98d6-11e5-8777-1051721d3c24","name":"增值税发票资质申请","url":"/admin/printspecial/apply","is_menu":true,"order":3,"group":"","children":null}]}
